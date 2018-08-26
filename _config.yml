@@ -42,8 +42,8 @@ favicon_ico: http://oo12ugek5.bkt.clouddn.com/blog/images/favicon.ico
 logo: http://oo12ugek5.bkt.clouddn.com/images/logo-text-white.png
 
 # 头像/二维码（用于显示在底部）二选一
-avatar: http://oo12ugek5.bkt.clouddn.com/images/qrcode.png
-# qrcode: http://oo12ugek5.bkt.clouddn.com/images/qrcode.png
+avatar: https://raw.githubusercontent.com/zhangxuewen/zhangxuewen.github.com/master/img/qroc.png
+
 
 # 文章的默认封面
 default_cover: http://oo12ugek5.bkt.clouddn.com/images/default_cover.png
