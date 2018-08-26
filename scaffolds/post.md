@@ -2,6 +2,7 @@
 title: {{ title }}
 date: {{ date }}
 tags:
+categories:
 cover: http://oxnuwmm3w.bkt.clouddn.com/hello-world.jpeg
 author: 
   nick: zhangxuewen
