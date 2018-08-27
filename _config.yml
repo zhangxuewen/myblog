@@ -73,6 +73,18 @@ about:
   address: beijing, China
   email: zhang1234xuewen@163.com
 
+cnzz_statistic: true
+
+  # Feed Atom
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+
+# Sitemap
+sitemap:
+  path: sitemap.xml
+
 # Directory
 source_dir: source
 public_dir: public
@@ -191,6 +203,14 @@ hfc_favicons:
     opengraph: false
     windows: true
     yandex: false
+
+gitTalk:
+  clientId: ***
+  clientSecret: ***
+  repo: ***
+  owner: ***
+  admin: 
+    - ***
 
 # Deployment  https://postimages.org/
 ## Docs: https://hexo.io/docs/deployment.html
