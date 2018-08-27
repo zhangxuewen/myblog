@@ -205,12 +205,12 @@ hfc_favicons:
     yandex: false
 
 gitTalk:
-  clientId: ***
-  clientSecret: ***
-  repo: ***
-  owner: ***
+  clientId: 4c8dd20ffc451a6ef3b7
+  clientSecret: 371ab1a95136191d5efe10c638c852f77c8f0771
+  repo: zhangxuewen.github.com
+  owner: zhangxuewen  
   admin: 
-    - ***
+    - zhangxuewen
 
 # Deployment  https://postimages.org/
 ## Docs: https://hexo.io/docs/deployment.html
