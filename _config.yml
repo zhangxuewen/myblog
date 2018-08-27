@@ -206,8 +206,8 @@ hfc_favicons:
     yandex: false
 
 gitTalk:
-  clientId: 4c8dd20ffc451a6ef3b7
-  clientSecret: 371ab1a95136191d5efe10c638c852f77c8f0771
+  clientId: 3045be734068918d5ad3
+  clientSecret: a889fc3ef05285a8b4dc33290eccb432b2326784
   repo: zhangxuewen.github.com
   owner: zhangxuewen  
   admin: 

@@ -13,7 +13,7 @@
 
 <!-- cnzz统计 -->
 {% if config.cnzz_statistic|default(theme.cnzz_statistic) %}
-   <script src="https://s96.cnzz.com/z_stat.php?id=1000173233&web_id=1000173233" language="JavaScript"></script>
+   <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1000173233'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s96.cnzz.com/z_stat.php%3Fid%3D1000173233' type='text/javascript'%3E%3C/script%3E"));</script>
 {% endif %}
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
