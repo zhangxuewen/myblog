@@ -207,7 +207,7 @@ hfc_favicons:
 
 gitTalk:
   clientId: 3045be734068918d5ad3
-  clientSecret: a889fc3ef05285a8b4dc33290eccb432b2326784
+  clientSecret: c4089bee58fa815358cf77f06d3df3cc8df76b5f
   repo: myblog
   owner: zhangxuewen  
   admin: 
