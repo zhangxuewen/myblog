@@ -7,10 +7,10 @@
 # 博客的标题
 title: 程序猿的脑洞
 # banner显示的子标题
-subtitle: 脑洞大开
+subtitle: 脑洞社区
 
 # 博客介绍（同时用于seo）
-description: 技术的胡思乱想
+description: 脑油社区是我对技术，产品，数据的奇思妙想，希望我们一起用技术改变生活。
 
 language: zh-cn
 timezone:
@@ -29,8 +29,6 @@ subtitle_desc: 思考技术，产品，数据的关系，享受程序猿的脑�
 
 # seo关键字
 keywords:  java,技术,产品,数据,前端, 程序员, 前端开发, 全栈开发, linux, javascript
-
-
 
 # 个人介绍
 introduction: 技术改变生活
