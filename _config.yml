@@ -5,19 +5,19 @@
 
 # Site
 # 博客的标题
-title: 程序猿的脑洞
+title: 脑洞笔记
 # banner显示的子标题
-subtitle: 脑洞社区
+subtitle: NAODONG BLOG
 
 # 博客介绍（同时用于seo）
-description: 脑洞社区是我作为程序猿的奇思妙想，希望能能过技术改变生活。
+description: 脑洞笔记|个人博客，记录程序猿的奇思妙想和日常的技术积累，希望能为这一行业做点事情。
 
 language: zh-cn
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://blog.51hpz.com
+url: http://51hpz.cn/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -25,7 +25,7 @@ permalink_defaults:
 
 
 # banner显示的简短介绍
-subtitle_desc: 思考技术，产品，数据的关系，享受程序猿的脑洞
+subtitle_desc: 思考技术，产品，数据的无限可能，享受程序猿的脑洞
 
 # seo关键字
 keywords:  java,技术,产品,数据,前端, 程序员, 前端开发, 全栈开发, linux, javascript
@@ -58,7 +58,7 @@ loader_img: http://oo12ugek5.bkt.clouddn.com/blog/images/loader.gif
 menu:
   home: / 
   archive: /archives
-  docs: https://blog.51hpz.com/mywiki/
+  docs: http://51hpz.cn//mywiki/
   about: /about
 
 # 站长信息
@@ -67,7 +67,7 @@ author:
   link: https://github.com/zhangxuewen
 # 用于页面 footer 的站长信息
 about:
-  info: 本站是基于 Hexo 搭建的静态资源博客，主要用于分享的一些程序猿的脑洞，欢迎点击右下角订阅 rss。
+  info: 本站是基于 Hexo 搭建的静态资源博客，主要用于分享程序猿的日常学习、生活及工作的一些心得总结，欢迎点击右下角订阅 rss。
   address: beijing, China
   email: zhang1234xuewen@163.com
 
